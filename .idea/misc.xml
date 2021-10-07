@@ -14,6 +14,10 @@
         <entry key="..\:/Users/kristiyan.evtimov.SCALEFOCUS/Desktop/first_lib/SlideButtonView/sample/src/main/res/layout/activity_main.xml" value="0.21920289855072464" />
         <entry key="..\:/Users/kristiyan.evtimov.SCALEFOCUS/Desktop/first_lib/SlideButtonView/sample/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/kristiyan.evtimov.SCALEFOCUS/Desktop/first_lib/SlideButtonView/sample/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/kristiyan.evtimov.SCALEFOCUS/Desktop/first_lib/SlideButtonView/slidebtnlib/src/main/res/drawable/slide_button_icon_panel_background.xml" value="0.23703703703703705" />
+        <entry key="..\:/Users/kristiyan.evtimov.SCALEFOCUS/Desktop/first_lib/SlideButtonView/slidebtnlib/src/main/res/drawable/slide_button_panel_background.xml" value="0.23703703703703705" />
+        <entry key="..\:/Users/kristiyan.evtimov.SCALEFOCUS/Desktop/first_lib/SlideButtonView/slidebtnlib/src/main/res/layout/slide_button_default_state_layout.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/kristiyan.evtimov.SCALEFOCUS/Desktop/first_lib/SlideButtonView/slidebtnlib/src/main/res/layout/slide_button_loading_state_layout.xml" value="0.2033514492753623" />
       </map>
     </option>
   </component>

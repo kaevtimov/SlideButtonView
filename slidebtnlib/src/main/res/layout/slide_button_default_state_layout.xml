@@ -35,7 +35,6 @@
         android:clickable="false"
         android:elevation="8dp"
         android:scaleType="centerInside"
-        android:src="@drawable/ic_forward_arrow_24"
         android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="@id/backgroundPanel"
         app:layout_constraintDimensionRatio="1"
