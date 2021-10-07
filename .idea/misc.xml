@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kristiyan.evtimov.SCALEFOCUS/AndroidStudioProjects/SlideButtonLib/app/src/main/res/drawable/slide_button_icon_panel_background.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/kristiyan.evtimov.SCALEFOCUS/AndroidStudioProjects/SlideButtonLib/app/src/main/res/drawable/slide_button_panel_background.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/kristiyan.evtimov.SCALEFOCUS/AndroidStudioProjects/SlideButtonLib/app/src/main/res/layout/activity_main.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/kristiyan.evtimov.SCALEFOCUS/AndroidStudioProjects/SlideButtonLib/app/src/main/res/layout/slide_button_default_state_layout.xml" value="0.38831615120274915" />
+        <entry key="..\:/Users/kristiyan.evtimov.SCALEFOCUS/AndroidStudioProjects/SlideButtonLib/app/src/main/res/layout/slide_button_loading_state_layout.xml" value="0.3806228373702422" />
+        <entry key="..\:/Users/kristiyan.evtimov.SCALEFOCUS/AndroidStudioProjects/SlideButtonLib/slidebtnlib/src/main/res/layout/slide_button_default_state_layout.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/kristiyan.evtimov.SCALEFOCUS/AndroidStudioProjects/SlideButtonLib/slidebtnlib/src/main/res/layout/slide_button_loading_state_layout.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/kristiyan.evtimov.SCALEFOCUS/Desktop/first_lib/SlideButtonView/sample/src/main/res/layout/activity_main.xml" value="0.21920289855072464" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

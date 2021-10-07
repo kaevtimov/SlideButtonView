@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:interpolator/decelerate_cubic" android:transitionOrdering="together">
+
+    <changeBounds>
+        <targets android:targetId="@+id/backgroundPanel" />
+    </changeBounds>
+    <autoTransition>
+        <targets>
+            <target android:targetId="@+id/slidingButton" />
+            <target android:targetId="@+id/progressBar" />
+        </targets>
+    </autoTransition>
+</transitionSet>

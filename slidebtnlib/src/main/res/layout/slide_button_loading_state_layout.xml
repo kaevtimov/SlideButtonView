@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="100dp">
+
+    <View
+        android:id="@+id/backgroundPanel"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/slide_button_panel_background"
+        app:layout_constraintDimensionRatio="1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/centerTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:gravity="center_horizontal"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@id/backgroundPanel"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/backgroundPanel"
+        tools:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/slidingButton"
+        android:layout_width="1px"
+        android:layout_height="1px"
+        android:layout_margin="8dp"
+        android:background="@drawable/slide_button_icon_panel_background"
+        android:clickable="false"
+        android:elevation="8dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/ic_forward_arrow_24"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@id/backgroundPanel"
+        app:layout_constraintDimensionRatio="1"
+        app:layout_constraintEnd_toEndOf="@id/backgroundPanel"
+        app:layout_constraintStart_toStartOf="@id/backgroundPanel"
+        app:layout_constraintTop_toTopOf="@id/backgroundPanel" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_margin="4dp"
+        android:indeterminateTint="@color/material_on_surface_stroke"
+        app:layout_constraintBottom_toBottomOf="@id/backgroundPanel"
+        app:layout_constraintEnd_toEndOf="@id/backgroundPanel"
+        app:layout_constraintStart_toStartOf="@id/backgroundPanel"
+        app:layout_constraintTop_toTopOf="@id/backgroundPanel" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
